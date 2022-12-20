@@ -22,6 +22,11 @@ public class NotiController {
 
 	@Autowired
 	private NOTIService notisvc;
+	
+	
+	// 깃허브 수정내용
+	// https://github.com/jionyj4372/smtp 에 업로드
+	
 
 	// 공지사항 상세보기
 	@RequestMapping(value = "/notiView", method = RequestMethod.GET)
