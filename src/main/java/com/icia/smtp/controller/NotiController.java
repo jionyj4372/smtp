@@ -25,7 +25,7 @@ public class NotiController {
 	
 	
 	// 깃허브 수정내용
-	// https://github.com/jionyj4372/smtp 에 업로드
+	// https://github.com/jionyj4372/smtp 에 업로드(1)
 	
 
 	// 공지사항 상세보기
